@@ -47,10 +47,11 @@ Built with **Gradio** and a trained machine learning model, it helps you quickly
 
 ---
 
-## 📂 Dataset & Model
+## 📂 Dataset, Model & Deployment
 
 - Dataset with acoustic features available [here](https://github.com/Mohie-Aldin-Sinan/TuneMood/blob/main/data/Acoustic%20Features.csv)  
-- Model and scaler are pre-trained and loaded internally.
+- Model and scaler are pre-trained and loaded internally.  
+- Try the live app here: [TuneMood Live Demo](https://huggingface.co/spaces/Mohie-Aldin-Sinan/TuneMood)
 
 ---
 
