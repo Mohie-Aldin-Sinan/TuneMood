@@ -1,3 +1,16 @@
+---
+title: TuneMood 🎵
+emoji: 🎧
+colorFrom: purple
+colorTo: blue
+sdk: gradio
+sdk_version: "4.27.0"
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # 🎵 TuneMood – Predict the Mood of Music with ML
 
 TuneMood is a machine learning web app that predicts the **mood** of a song using its acoustic features or raw audio. Built with **Gradio** and powered by a trained classification model, it allows you to:
