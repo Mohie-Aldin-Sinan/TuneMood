@@ -61,7 +61,7 @@ Check out the full [GitHub repo](https://github.com/Mohie-Aldin-Sinan/TuneMood) 
 
 ---
 
-Made with 💜 by Mohie Aldin Sinan
+Created by Mohie Aldin Sinan
 
 ---
 
