@@ -22,7 +22,7 @@ Built with **Gradio** and a trained machine learning model, it helps you quickly
 ## 🚀 How to Use
 
 - Choose input type:
-  - **From Dataset** — enter a sample index to test on existing music samples.
+  
   - **From Audio File** — upload your own `.mp3` or `.wav` music file.
 
 - Click **Predict Mood** to see the model's prediction instantly.
